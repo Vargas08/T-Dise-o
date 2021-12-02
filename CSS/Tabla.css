@@ -1,0 +1,20 @@
+table
+{
+ background:#A9DFBF;
+ border-collapse:collapse; /*borde de una linea*/
+}
+
+
+tr:hover {
+  background: #F9E79F; /*para cambiar color de fondo cuando el puntero esté sobre una fila*/
+}
+
+td /*celda*/
+{
+ padding:10;
+}
+
+thead /*titulos de la tabla en azul*/
+{
+ color: #000080;
+}
